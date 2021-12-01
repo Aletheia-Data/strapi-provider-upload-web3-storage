@@ -23,6 +23,17 @@ module.exports = ({ env }) => ({
 });
 ```
 
+
+| :warning: WARNING          |
+|:---------------------------|
+| Module has to be tested      |
+
+
+| :boom: DANGER              |
+|:---------------------------|
+| Please use with caution! |
+
+
 ## Contributing
 
 Pull requests are welcome. For fixes, first open an (issue) [https://github.com/Aletheia-Data/strapi-provider-upload-nft-storage/issues/new] to discuss what you would like to change.

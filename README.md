@@ -16,7 +16,7 @@ module.exports = ({ env }) => ({
   upload: {
     provider: 'web3-storage',
     providerOptions: {
-        apiKey: env('NFT_STORAGE_API_KEY')
+        apiKey: env('WEB3_STORAGE_API_KEY')
     }
   },
   // ...
@@ -36,7 +36,7 @@ module.exports = ({ env }) => ({
 
 ## Contributing
 
-Pull requests are welcome. For fixes, first open an (issue) [https://github.com/Aletheia-Data/strapi-provider-upload-nft-storage/issues/new] to discuss what you would like to change.
+Pull requests are welcome. For fixes, first open an (issue) [https://github.com/Aletheia-Data/strapi-provider-upload-web3-storage/issues/new] to discuss what you would like to change.
 
 Please be sure to do the appropriate tests.
 

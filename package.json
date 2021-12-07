@@ -1,6 +1,6 @@
 {
-  "name": "@aletheia-data/strapi-provider-upload-web3-storage",
-  "version": "0.0.1",
+  "name": "strapi-provider-upload-web3-storage",
+  "version": "0.0.4",
   "description": "strapi-provider-upload-web3-storage",
   "author": "aletheiadata@gmail.com",
   "dependencies": {

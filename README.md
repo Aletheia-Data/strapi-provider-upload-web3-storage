@@ -14,7 +14,7 @@ See the [using a provider](https://strapi.io/documentation/developer-docs/latest
 module.exports = ({ env }) => ({
   // ...
   upload: {
-    provider: 'nft-storage',
+    provider: 'web3-storage',
     providerOptions: {
         apiKey: env('NFT_STORAGE_API_KEY')
     }

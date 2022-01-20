@@ -1,4 +1,4 @@
-# strapi-provider-upload-nft-storage
+# strapi-provider-upload-web3-storage
 
 ## Pre-requisite
 
